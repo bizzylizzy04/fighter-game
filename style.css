@@ -10,14 +10,18 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'VT323', monospace;
-    }
+}
+
+button {
+    cursor: pointer;
+}
 
 .menu {
     width: 50%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    }
+}
 
 #p1 {
     width:100px;
