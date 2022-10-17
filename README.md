@@ -1,0 +1,2 @@
+# fighter-game
+Vanilla JavaScript
